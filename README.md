@@ -25,3 +25,21 @@ View (DOM) - É o que o cliente vê
 Download AngularJS - ZIP
 
 ---
+
+**AngularJS #2 -** Usando Diretivas
+
+Diretivas são extensões da linguagem HTML que permitem a implementação de novos compartamentos, de forma declarativa.
+
+ngApp <br>
+Definindo as fronteiras da aplicação
+
+ngController <br>
+Vinculando um elemento da View ao Controller
+
+ngModel <br>
+Vinculando uma propriedade ao $scope
+
+ngClick <br>
+Atribuindo um comportamento ao evento
+
+---
