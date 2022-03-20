@@ -51,7 +51,10 @@ Renderiza as opções de um select
 **ngClass e ngStyle** <br>
 Aplicando classes CSS e estilos dinamicamente
 
-**ngShow, ngHide e ngIf**
+**ngShow, ngHide e ngIf** <br>
 Exibindo um elemento condicionalmente
+
+**ngInclude** <br>
+Incluir conteúdo dinamicamente
 
 ---
