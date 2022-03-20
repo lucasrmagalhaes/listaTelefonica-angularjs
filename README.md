@@ -1,4 +1,4 @@
-### AngularJS
+<h3 align="center">AngularJS</h3>
 
 ---
 
@@ -47,5 +47,8 @@ Desabilitando um elemento dinamicamente
 
 **ngOptions** <br>
 Renderiza as opções de um select
+
+**ngClass e ngStyle** <br>
+Aplicando classes CSS e estilos dinamicamente
 
 ---
