@@ -78,7 +78,10 @@
         <div class="jumbotron">
             <h3>{{ app }}</h3>
 
-            <table class="table">
+            <table 
+                ng-show="contatos.length > 0" 
+                class="table"
+            >
                 <tr>
                     <th></th>
                     <th>Nome</th>
@@ -126,7 +129,7 @@
             <button 
                 class="btn btn-danger btn-block" 
                 ng-click="apagarContato(contatos)"
-                ng-disabled="!isContatoSelecionado(contatos)"
+                ng-if="isContatoSelecionado(contatos)"
             >
                 Apagar Contato
             </button>
