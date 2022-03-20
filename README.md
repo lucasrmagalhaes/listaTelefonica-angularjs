@@ -30,21 +30,22 @@ Download AngularJS - ZIP
 
 Diretivas são extensões da linguagem HTML que permitem a implementação de novos compartamentos, de forma declarativa.
 
-ngApp <br>
+**ngApp** <br>
 Definindo as fronteiras da aplicação
 
-ngController <br>
+**ngController** <br>
 Vinculando um elemento da View ao Controller
 
-ngModel <br>
+**ngModel** <br>
 Vinculando uma propriedade ao $scope
 
-ngClick <br>
+**ngClick** <br>
 Atribuindo um comportamento ao evento
 
-ngDisabled <br>
+**ngDisabled** <br>
 Desabilitando um elemento dinamicamente
 
-
+**ngOptions** <br>
+Renderiza as opções de um select
 
 ---
