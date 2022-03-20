@@ -42,4 +42,9 @@ Vinculando uma propriedade ao $scope
 ngClick <br>
 Atribuindo um comportamento ao evento
 
+ngDisabled <br>
+Desabilitando um elemento dinamicamente
+
+
+
 ---
