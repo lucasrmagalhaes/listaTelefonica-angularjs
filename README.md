@@ -26,7 +26,7 @@ Download AngularJS - ZIP
 
 ---
 
-**AngularJS #2 -** Usando Diretivas
+**AngularJS #2 e #3 -** Usando Diretivas
 
 Diretivas são extensões da linguagem HTML que permitem a implementação de novos compartamentos, de forma declarativa.
 
@@ -56,5 +56,30 @@ Exibindo um elemento condicionalmente
 
 **ngInclude** <br>
 Incluir conteúdo dinamicamente
+
+---
+
+**AngularJS #4 -** Validando Formulários
+
+**ngRequired** <br>
+Define um determinado campo como obrigatório
+
+**$valid e $invalid** <br>
+Consultando a validade de um campo ou formulário
+
+**$pristine e $dirty** <br>
+Verificando se um formulário ou campo já foi utilizado alguma vez
+
+**ngMinlength e ngMaxlength** <br>
+Define o tamanho mínimo e máximo permitido
+
+**$error** <br>
+Consultando os erros de um campo ou formulário
+
+**ngPattern** <br>
+Define uma RegExp para validar o campo
+
+**ngPattern** <br>
+Define uma RegExp para validar o campo
 
 ---
