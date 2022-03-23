@@ -79,7 +79,40 @@ Consultando os erros de um campo ou formulário
 **ngPattern** <br>
 Define uma RegExp para validar o campo
 
-**ngPattern** <br>
-Define uma RegExp para validar o campo
+---
+
+**AngularJS #5 -** Aplicando Filtros
+
+Filtros <br>
+Transformam o resultado de uma expressão, realizando operações como a formatação de data, a conversão de moeda e a ordenação de Array.
+
+**uppercase**
+Transforma uma String em letra maiúscula
+
+**lowercase**
+Transforma uma String em letra minúscula
+
+**date**
+Formata uma data usando uma máscara
+
+**filter**
+Filtra um Array com base em um critério
+
+```js
+$filter("uppercase")("Lucas")
+uppercaseFilter("Lucas")
+```
+
+**orderBy**
+Ordena um Array com base em um critério
+
+**currency**
+Converte um número para moeda
+
+**number**
+Formata um número
+
+**limitTo**
+Limita um Array ou uma String
 
 ---
